@@ -18,14 +18,3 @@ Codelab: https://developer.huawei.com/consumer/en/codelab/HMSLocationKit/index.h
 
 Huawei site kit to Reverse Geocoding:
 https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/hms-site-geocoding
-
-You can register your own developer account.
-And also you can try below developer account:
-+971502653908 / HHAodrn99!
-If verification is required, please contact Figo +971502653908 in whatsapp to get the verification code..
-
-Please try your best to show your coding ability, code design ability and android developing ability in the demo. Please provide a document to describe your design.
-
-After finish the demo,   send the APK ,  source code and document to 
-figo.huhui@huawei.com
- Hui Hu +971502653908
